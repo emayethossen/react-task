@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Mr. Samir",
+    "duration": 5,
+    "authorImg": "https://img.freepik.com/free-photo/young-successful-businessman-formal-wear-showing-thumb-up-gesture_171337-9526.jpg?size=626&ext=jpg&ga=GA1.1.754237928.1680178023&semt=ais",
+    "title": "Talk about AI based tools for programmer",
+    "image": "https://images.unsplash.com/photo-1678957949479-b1e876bee3f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoYXRncHR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "published": "Jan 27 2023"
+  },
+  {
+    "id": 2,
+    "name": "Ms. Sanjida",
+    "duration": 20,
+    "title": "How to get your first job as a self-taught programmer",
+    "authorImg": "https://img.freepik.com/free-photo/brunette-business-woman-with-wavy-long-hair-blue-eyes-stands-holding-notebook-hands_197531-343.jpg?size=626&ext=jpg&ga=GA1.1.754237928.1680178023&semt=ais",
+    "image": "https://img.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg?size=626&ext=jpg&ga=GA1.1.754237928.1680178023&semt=sph",
+    "published": "Dec 21 2022"
+  },
+  {
+    "id": 3,
+    "name": "Mr. Aslam",
+    "duration": 15,
+    "authorImg": "https://img.freepik.com/premium-photo/bearded-businessman-standing-with-crossed-arms-looking-camera-with-toothy-smile_416530-31250.jpg?size=626&ext=jpg&ga=GA1.1.754237928.1680178023&semt=ais",
+    "title": "Top programming language in this year",
+    "image": "https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?size=626&ext=jpg&ga=GA1.2.754237928.1680178023&semt=sph",
+    "published": "Oct 04 2022"
+  },
+  {
+    "id": 4,
+    "name": "Mr. Rahul",
+    "duration": 12,
+    "authorImg": "https://img.freepik.com/free-photo/handsome-corporate-man-real-estate-agent-assistant-smiling-hold-hands-together-how-may-i-help-you-smiling-friendly-polite-assist-customer-white-background_176420-45257.jpg?size=626&ext=jpg&ga=GA1.1.754237928.1680178023&semt=ais",
+    "title": "How to become a Software Engineer",
+    "image": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&ga=GA1.2.754237928.1680178023&semt=sph",
+    "published": "Jun 23 2022"
+  }
+]
